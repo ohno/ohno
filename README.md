@@ -1,5 +1,4 @@
-### ☕ Hello!
-I am a
+### ☕ Hello! I am a
 - 🎻 Cellist (I love Bach)
 - 🎓 Graduate Student (M1)
 - 💻 Websites Engineer (1900yen/h～)
