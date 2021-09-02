@@ -1,7 +1,7 @@
 ### ☕ Hello! I am a
 - 🎻 Cellist (I love Bach)
 - 🎓 Graduate Student (M1)
-- 💻 Websites Engineer (1900yen/h～)
+- 💻 Websites Engineer (1900～yen/h)
 
 ### 🧰 Toolbox
 <p>
