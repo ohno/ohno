@@ -44,6 +44,7 @@
 </p>
 
 ### 🔰 Tutorial
+- [Dates.jl](https://gist.github.com/ohno/939a35cec51081d21da116f99066a7a6)
 - [Plots.jl](https://gist.github.com/ohno/78d55921c3f88b50a7fb1835be132bcd)
 - [LinearAlgebra.jl](https://gist.github.com/ohno/49c05a68c665b3bd15807f1ae5574483)
 - [Cache Tuning on Julia](https://gist.github.com/ohno/86f1ba4c9a237b17a10cb88904e283e6) 
