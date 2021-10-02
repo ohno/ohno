@@ -46,7 +46,7 @@
 ### 🔰 Tutorial
 - [Dates.jl](https://gist.github.com/ohno/939a35cec51081d21da116f99066a7a6)
 - [Plots.jl](https://gist.github.com/ohno/78d55921c3f88b50a7fb1835be132bcd)
-- [★Optim.jl](https://gist.github.com/ohno/8e5a953504e1fae0c16c272e0d571af4)
+- [Optim.jl](https://gist.github.com/ohno/8e5a953504e1fae0c16c272e0d571af4) ☕
 - [LinearAlgebra.jl](https://gist.github.com/ohno/49c05a68c665b3bd15807f1ae5574483)
 - [BenchmarkTools.jl](https://gist.github.com/ohno/86f1ba4c9a237b17a10cb88904e283e6) 
 - [Running External Programs in Julia](https://github.com/ohno/RunningExternalPrograms)
@@ -55,5 +55,5 @@
 - [Taylor Series](https://gist.github.com/ohno/b0d034da7d0e56853b706e1259925600)
 - [Diffusion Equation](https://gist.github.com/ohno/1eccdd8d6e04e41683095c2e693a9b1b)
 - [History of Brownian Motion](https://gist.github.com/ohno/8559aa1ac4f3a233b7059f31c20825a4)
-- [★Langevin Equation](https://gist.github.com/ohno/1cac40f90ae41bf79d94a54f3fe1b210)
-- [★Generalized Eigenvalue Problems](https://gist.github.com/ohno/fda49230abbeda4008431dd7a65e8a11)
+- [Langevin Equation](https://gist.github.com/ohno/1cac40f90ae41bf79d94a54f3fe1b210) ☕
+- [Generalized Eigenvalue Problems](https://gist.github.com/ohno/fda49230abbeda4008431dd7a65e8a11) ☕
