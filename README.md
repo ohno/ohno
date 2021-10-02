@@ -1,7 +1,7 @@
 ### ☕ Hello! I am a
 - 🎻 Cellist
-- 🎓 Graduate Student (ab initio calculations)
-- 💻 Websites Engineer
+- 🎓 Graduate Student ([@YCU](http://www-user.yokohama-cu.ac.jp/~tachi/index.html), ab initio calculations)
+- 💻 Websites Engineer ([@Qumpoo](https://qumpoo.com/))
 
 ### 🧰 Toolbox
 <p>
