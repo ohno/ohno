@@ -56,4 +56,4 @@
 - [Diffusion Equation (for Beginners)](https://gist.github.com/ohno/1eccdd8d6e04e41683095c2e693a9b1b)
 - [History of Brownian Motion](https://gist.github.com/ohno/8559aa1ac4f3a233b7059f31c20825a4)
 - [★Langevin Equation](https://gist.github.com/ohno/1cac40f90ae41bf79d94a54f3fe1b210)
-- [★Generalized Eigenvalue Problems](https://gist.github.com/ohno/fda49230abbeda4008431dd7a65e8a11)
+- [★Generalized Eigenvalue Problems (Hydrogen Atom)](https://gist.github.com/ohno/fda49230abbeda4008431dd7a65e8a11)
