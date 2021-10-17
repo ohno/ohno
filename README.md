@@ -43,6 +43,9 @@
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?style=flat&logo=php&logoColor=white"/>
 </p>
 
+### ⚙️ Module
+- [popup.js](https://ohno.github.io/popup.js/)
+
 ### 🔰 Tutorial
 - [Dates.jl](https://gist.github.com/ohno/939a35cec51081d21da116f99066a7a6)
 - [Plots.jl](https://gist.github.com/ohno/78d55921c3f88b50a7fb1835be132bcd)
