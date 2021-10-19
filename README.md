@@ -66,7 +66,7 @@
 - [Marked](https://ohno.github.io#Marked)
 - [EasyMDE](https://ohno.github.io#EasyMDE)
 - [MathJax](https://ohno.github.io#MathJax)
-- [Material Icons](https://ohno.github.io#Material Icons)
+- [Material Icons](https://ohno.github.io#Material%20Icons)
 - [MoreToggles.css](https://ohno.github.io#MoreToggles.css)
 - [GitHub:buttons](https://ohno.github.io#GitHub:buttons)
 - [Shields.io](https://ohno.github.io#Shields.io)
