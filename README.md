@@ -1,7 +1,7 @@
 ### ☕ Hello! I am a
 - 🎻 Cellist
-- 🎓 Graduate Student ([@YCU QPC](http://www-user.yokohama-cu.ac.jp/~tachi/index.html), ab initio calculations for exotic molecules)
-- 💻 Websites Engineer ([@Qumpoo](https://qumpoo.com/))
+- 🎓 Graduate Student @[YCU QPC](http://www-user.yokohama-cu.ac.jp/~tachi/index.html) (ab initio calculations for exotic molecules)
+- 💻 Websites Engineer @[Qumpoo](https://qumpoo.com/)
 
 ### 🧰 Toolbox
 <p>
@@ -43,6 +43,13 @@
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?style=flat&logo=php&logoColor=white"/>
 </p>
 
+### 📚 Mathematics&Physics Lecture
+- [Taylor Series](https://gist.github.com/ohno/b0d034da7d0e56853b706e1259925600)
+- [Diffusion Equation](https://gist.github.com/ohno/1eccdd8d6e04e41683095c2e693a9b1b)
+- [History of Brownian Motion](https://gist.github.com/ohno/8559aa1ac4f3a233b7059f31c20825a4)
+- [★Langevin Equation](https://gist.github.com/ohno/1cac40f90ae41bf79d94a54f3fe1b210)
+- [★Generalized Eigenvalue Problems (Hydrogen Atom)](https://gist.github.com/ohno/fda49230abbeda4008431dd7a65e8a11)
+
 ### 🔰 Julia Tutorial
 - [Dates.jl](https://gist.github.com/ohno/939a35cec51081d21da116f99066a7a6)
 - [Plots.jl](https://gist.github.com/ohno/78d55921c3f88b50a7fb1835be132bcd)
@@ -51,24 +58,17 @@
 - [BenchmarkTools.jl](https://gist.github.com/ohno/86f1ba4c9a237b17a10cb88904e283e6) 
 - [Running External Programs in Julia](https://github.com/ohno/RunningExternalPrograms)
 
-### 📚 Physics Lecture
-- [Taylor Series](https://gist.github.com/ohno/b0d034da7d0e56853b706e1259925600)
-- [Diffusion Equation](https://gist.github.com/ohno/1eccdd8d6e04e41683095c2e693a9b1b)
-- [History of Brownian Motion](https://gist.github.com/ohno/8559aa1ac4f3a233b7059f31c20825a4)
-- [★Langevin Equation](https://gist.github.com/ohno/1cac40f90ae41bf79d94a54f3fe1b210)
-- [★Generalized Eigenvalue Problems (Hydrogen Atom)](https://gist.github.com/ohno/fda49230abbeda4008431dd7a65e8a11)
-
-### ⚙️ Hello Worlds!
-- [popup.js](https://ohno.github.io#popup.js)
-- [clipboard.js](https://ohno.github.io#clipboard.js)
-- [download.js](https://ohno.github.io#download.js)
-- [escape-html](https://ohno.github.io#escape-html)
-- [Marked](https://ohno.github.io#Marked)
-- [EasyMDE](https://ohno.github.io#EasyMDE)
-- [MathJax](https://ohno.github.io#MathJax)
-- [Material Icons](https://ohno.github.io#Material%20Icons)
-- [MoreToggles.css](https://ohno.github.io#MoreToggles.css)
-- [GitHub:buttons](https://ohno.github.io#GitHub:buttons)
-- [Shields.io](https://ohno.github.io#Shields.io)
-- [highlight.js](https://ohno.github.io#highlight.js)
-- [c3.js](https://ohno.github.io#c3.js)
+### 💡 CDN Examples
+- [popup.js](https://ohno.github.io/#popup.js)
+- [clipboard.js](https://ohno.github.io/#clipboard.js)
+- [download.js](https://ohno.github.io/#download.js)
+- [escape-html](https://ohno.github.io/#escape-html)
+- [Marked](https://ohno.github.io/#Marked)
+- [EasyMDE](https://ohno.github.io/#EasyMDE)
+- [MathJax](https://ohno.github.io/#MathJax)
+- [Material Icons](https://ohno.github.io/#Material%20Icons)
+- [MoreToggles.css](https://ohno.github.io/#MoreToggles.css)
+- [GitHub:buttons](https://ohno.github.io/#GitHub:buttons)
+- [Shields.io](https://ohno.github.io/#Shields.io)
+- [highlight.js](https://ohno.github.io/#highlight.js)
+- [c3.js](https://ohno.github.io/#c3.js)
