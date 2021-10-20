@@ -50,7 +50,7 @@
 - [★Langevin Equation](https://gist.github.com/ohno/1cac40f90ae41bf79d94a54f3fe1b210)
 - [★Generalized Eigenvalue Problems (Hydrogen Atom)](https://gist.github.com/ohno/fda49230abbeda4008431dd7a65e8a11)
 
-### 🔰 Julia Tutorial
+### 🔰 Julia Tutorials
 - [Dates.jl](https://gist.github.com/ohno/939a35cec51081d21da116f99066a7a6)
 - [Plots.jl](https://gist.github.com/ohno/78d55921c3f88b50a7fb1835be132bcd)
 - [★Optim.jl](https://gist.github.com/ohno/8e5a953504e1fae0c16c272e0d571af4)
