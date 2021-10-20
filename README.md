@@ -43,7 +43,7 @@
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?style=flat&logo=php&logoColor=white"/>
 </p>
 
-### 📚 Mathematics&Physics Lecture
+### 📚 Lecture Notes
 - [Taylor Series](https://gist.github.com/ohno/b0d034da7d0e56853b706e1259925600)
 - [Diffusion Equation](https://gist.github.com/ohno/1eccdd8d6e04e41683095c2e693a9b1b)
 - [History of Brownian Motion](https://gist.github.com/ohno/8559aa1ac4f3a233b7059f31c20825a4)
