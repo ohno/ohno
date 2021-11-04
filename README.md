@@ -53,7 +53,7 @@
 - [★Generalized Eigenvalue Problems (Hydrogen Atom)](https://gist.github.com/ohno/fda49230abbeda4008431dd7a65e8a11)
 
 ### 🔰 Julia Tutorials
-- [☆Plots.jl](https://gist.github.com/ohno/78d55921c3f88b50a7fb1835be132bcd)
+- [★Plots.jl](https://gist.github.com/ohno/78d55921c3f88b50a7fb1835be132bcd)
 - [★Optim.jl](https://gist.github.com/ohno/8e5a953504e1fae0c16c272e0d571af4)
 - [☆LinearAlgebra.jl](https://gist.github.com/ohno/49c05a68c665b3bd15807f1ae5574483)
 - [Dates.jl](https://gist.github.com/ohno/939a35cec51081d21da116f99066a7a6)
