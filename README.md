@@ -1,5 +1,4 @@
 ### ☕ Hello! I am a
-- 🎻 Cellist
 - 🎓 Graduate Student @[YCU QPC](http://www-user.yokohama-cu.ac.jp/~tachi/index.html) (ab initio calculations for exotic molecules)
 - 💻 Websites Engineer @[Qumpoo](https://qumpoo.com/)
 
