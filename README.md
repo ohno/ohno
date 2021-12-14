@@ -50,7 +50,7 @@
 - [Stochastic Differential Equations](https://ohno.github.io/butsudoi2021/slides/slides.html#17)
 - [Langevin Equation](https://ohno.github.io/butsudoi2021/slides/slides.html#32)
 - [Time-Dependent Schrödinger Equation](https://gist.github.com/ohno/342a7d858337d68271d3b7efba73822c)
-- [Generalized Eigenvalue Problems (Hydrogen Atom)](https://gist.github.com/ohno/fda49230abbeda4008431dd7a65e8a11)
+- [Generalized Eigenvalue Problems](https://gist.github.com/ohno/fda49230abbeda4008431dd7a65e8a11)
 
 ### 🔰 Julia Tutorials
 - [Plots.jl](https://zenn.dev/ohno/articles/3101433fbe9231)
