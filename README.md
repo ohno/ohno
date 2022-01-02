@@ -2,6 +2,9 @@
 - 🎓 Graduate Student @[YCU QPC](http://www-user.yokohama-cu.ac.jp/~tachi/index.html) (ab initio calculations for exotic molecules)
 - 💻 Websites Engineer @[Qumpoo](https://qumpoo.com/)
 
+<!-- ![ohno's github stats](https://github-readme-stats.vercel.app/api?username=ohno&show_icons=true&theme=react&show_icons=true)  -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohno&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+
 ### 🧰 Toolbox
 <p>
   <img alt="Windows" src="https://img.shields.io/badge/Windows-00599C?style=flat&logo=windows&logoColor=white"/>
