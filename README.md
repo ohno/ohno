@@ -55,6 +55,7 @@
 - [Time-Dependent Schrödinger Equation](https://gist.github.com/ohno/342a7d858337d68271d3b7efba73822c)
 - [Generalized Eigenvalue Problems](https://gist.github.com/ohno/fda49230abbeda4008431dd7a65e8a11)
 - [Harmonic Oscillator](https://zenn.dev/ohno/articles/870b0c2a0af590)
+- [Morse Potential](https://zenn.dev/ohno/articles/f849d98a7f58a9)
 
 ### 🔰 Julia Tutorials
 - [Plots.jl](https://zenn.dev/ohno/articles/3101433fbe9231)
