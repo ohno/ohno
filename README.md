@@ -54,8 +54,10 @@
 - [Langevin Equation](https://ohno.github.io/butsudoi2021/slides/slides.html#32)
 - [Time-Dependent Schrödinger Equation](https://gist.github.com/ohno/342a7d858337d68271d3b7efba73822c)
 - [Generalized Eigenvalue Problems](https://gist.github.com/ohno/fda49230abbeda4008431dd7a65e8a11)
+- [Special Function](https://zenn.dev/ohno/articles/f352f354e5cf96)
 - [Harmonic Oscillator](https://zenn.dev/ohno/articles/870b0c2a0af590)
 - [Morse Potential](https://zenn.dev/ohno/articles/f849d98a7f58a9)
+- [Hydrogen Atom](https://zenn.dev/ohno/articles/e1103bc0d58ceb)
 
 ### 🔰 Julia Tutorials
 - [Plots.jl](https://zenn.dev/ohno/articles/3101433fbe9231)
@@ -64,6 +66,10 @@
 - [Dates.jl](https://gist.github.com/ohno/939a35cec51081d21da116f99066a7a6)
 - [BenchmarkTools.jl](https://gist.github.com/ohno/86f1ba4c9a237b17a10cb88904e283e6) 
 - [Running External Programs in Julia](https://github.com/ohno/RunningExternalPrograms)
+- [Latexify.jl](https://zenn.dev/ohno/articles/f352f354e5cf96#latex%E8%A1%A8%E7%A4%BA)
+- [LaTeXStrings](https://zenn.dev/ohno/articles/f352f354e5cf96#latex%E8%A1%A8%E7%A4%BA)
+- [SpecialFunctions.jl](https://zenn.dev/ohno/articles/f352f354e5cf96#%E3%82%AC%E3%83%B3%E3%83%9E%E9%96%A2%E6%95%B0)
+- [SpecialPolynomials.jl](https://zenn.dev/ohno/articles/f352f354e5cf96#%E3%82%A8%E3%83%AB%E3%83%9F%E3%83%BC%E3%83%88%E5%A4%9A%E9%A0%85%E5%BC%8F)
 
 ### 💡 CDN Examples
 - [c3.js](https://ohno.github.io/#c3.js)
