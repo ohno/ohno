@@ -52,7 +52,6 @@
 - [Brownian Motion](https://ohno.github.io/butsudoi2021/slides/slides.html#9)
 - [Stochastic Differential Equations](https://ohno.github.io/butsudoi2021/slides/slides.html#17)
 - [Langevin Equation](https://ohno.github.io/butsudoi2021/slides/slides.html#32)
-- [Time-Dependent Schrödinger Equation](https://gist.github.com/ohno/342a7d858337d68271d3b7efba73822c)
 - [Generalized Eigenvalue Problems](https://gist.github.com/ohno/fda49230abbeda4008431dd7a65e8a11)
 - [Special Function](https://zenn.dev/ohno/articles/f352f354e5cf96)
 - [Harmonic Oscillator](https://zenn.dev/ohno/articles/870b0c2a0af590)
@@ -60,6 +59,9 @@
 - [Hydrogen Atom](https://zenn.dev/ohno/articles/e1103bc0d58ceb)
 
 ### 🔰 Julia Tutorials
+- [Hello World!](https://zenn.dev/ohno/articles/cf2b4d09d4480e)
+- [Jupyter Notebook](https://zenn.dev/ohno/articles/7e83ffa103e43f)
+- [Tutorials](https://zenn.dev/ohno/articles/0f2a8ec970e8d7)
 - [Plots.jl](https://zenn.dev/ohno/articles/3101433fbe9231)
 - [Optim.jl](https://zenn.dev/ohno/articles/2a1dc7d609e5bc)
 - [LinearAlgebra.jl](https://gist.github.com/ohno/49c05a68c665b3bd15807f1ae5574483)
