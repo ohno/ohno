@@ -1,6 +1,6 @@
 ### ☕ Hello! I am a
-- 🎓 Graduate Student @[YCU QPC](http://www-user.yokohama-cu.ac.jp/~tachi/index.html) (ab initio calculations for exotic molecules)
-- 💻 Websites Engineer @[Qumpoo](https://qumpoo.com/)
+- 🎓 Graduate Student @[YCU QPC lab.](http://www-user.yokohama-cu.ac.jp/~tachi/index.html) (ab initio calculations for exotic molecules)
+- 💻 Websites Engineer @[Qumpoo Inc.](https://qumpoo.com/)
 
 <!-- ![ohno's github stats](https://github-readme-stats.vercel.app/api?username=ohno&show_icons=true&theme=react&show_icons=true)  -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohno&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
@@ -46,25 +46,26 @@
 </p>
 
 ### 📚 Lecture Notes
-- [Taylor Series](https://gist.github.com/ohno/b0d034da7d0e56853b706e1259925600)
-- [Diffusion Equation](https://gist.github.com/ohno/1eccdd8d6e04e41683095c2e693a9b1b)
-- [Random Walk Model](https://gist.github.com/ohno/8645edfe0a12c95b87f57ab7191fd966)
-- [Brownian Motion](https://ohno.github.io/butsudoi2021/slides/slides.html#9)
-- [Stochastic Differential Equations](https://ohno.github.io/butsudoi2021/slides/slides.html#17)
-- [Langevin Equation](https://ohno.github.io/butsudoi2021/slides/slides.html#32)
-- [Generalized Eigenvalue Problems](https://gist.github.com/ohno/fda49230abbeda4008431dd7a65e8a11)
+<!-- - [Taylor Series](https://gist.github.com/ohno/b0d034da7d0e56853b706e1259925600) -->
+<!-- - [Diffusion Equation](https://gist.github.com/ohno/1eccdd8d6e04e41683095c2e693a9b1b) -->
+<!-- - [Random Walk Model](https://gist.github.com/ohno/8645edfe0a12c95b87f57ab7191fd966) -->
 - [Special Function](https://zenn.dev/ohno/articles/f352f354e5cf96)
+- [Linear Algebra](https://zenn.dev/ohno/articles/dea98121f6d966)
+- [Eigenvalue Problems](https://zenn.dev/ohno/articles/cb10dc5b3f5bbc)
+- [Rayleigh–Ritz Method](https://zenn.dev/ohno/articles/c48920c9327b16)
 - [Harmonic Oscillator](https://zenn.dev/ohno/articles/870b0c2a0af590)
 - [Morse Potential](https://zenn.dev/ohno/articles/f849d98a7f58a9)
 - [Hydrogen Atom](https://zenn.dev/ohno/articles/e1103bc0d58ceb)
+- [Brownian Motion](https://ohno.github.io/butsudoi2021/slides/slides.html#9)
+- [Stochastic Differential Equations](https://ohno.github.io/butsudoi2021/slides/slides.html#17)
+- [Langevin Equation](https://ohno.github.io/butsudoi2021/slides/slides.html#32)
 
 ### 🔰 Julia Tutorials
 - [Hello World!](https://zenn.dev/ohno/articles/cf2b4d09d4480e)
 - [Jupyter Notebook](https://zenn.dev/ohno/articles/7e83ffa103e43f)
-- [Tutorials](https://zenn.dev/ohno/articles/0f2a8ec970e8d7)
 - [Plots.jl](https://zenn.dev/ohno/articles/3101433fbe9231)
 - [Optim.jl](https://zenn.dev/ohno/articles/2a1dc7d609e5bc)
-- [LinearAlgebra.jl](https://gist.github.com/ohno/49c05a68c665b3bd15807f1ae5574483)
+- [LinearAlgebra.jl](https://zenn.dev/ohno/articles/dea98121f6d966)
 - [Dates.jl](https://gist.github.com/ohno/939a35cec51081d21da116f99066a7a6)
 - [BenchmarkTools.jl](https://gist.github.com/ohno/86f1ba4c9a237b17a10cb88904e283e6) 
 - [Running External Programs in Julia](https://github.com/ohno/RunningExternalPrograms)
