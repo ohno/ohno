@@ -49,16 +49,16 @@
 <!-- - [Taylor Series](https://gist.github.com/ohno/b0d034da7d0e56853b706e1259925600) -->
 <!-- - [Diffusion Equation](https://gist.github.com/ohno/1eccdd8d6e04e41683095c2e693a9b1b) -->
 <!-- - [Random Walk Model](https://gist.github.com/ohno/8645edfe0a12c95b87f57ab7191fd966) -->
-- [Special Function](https://zenn.dev/ohno/articles/f352f354e5cf96)
 - [Linear Algebra](https://zenn.dev/ohno/articles/dea98121f6d966)
 - [Eigenvalue Problems](https://zenn.dev/ohno/articles/cb10dc5b3f5bbc)
 - [Rayleigh–Ritz Method](https://zenn.dev/ohno/articles/c48920c9327b16)
-- [Harmonic Oscillator](https://zenn.dev/ohno/articles/870b0c2a0af590)
-- [Morse Potential](https://zenn.dev/ohno/articles/f849d98a7f58a9)
-- [Hydrogen Atom](https://zenn.dev/ohno/articles/e1103bc0d58ceb)
 - [Brownian Motion](https://ohno.github.io/butsudoi2021/slides/slides.html#9)
 - [Stochastic Differential Equations](https://ohno.github.io/butsudoi2021/slides/slides.html#17)
 - [Langevin Equation](https://ohno.github.io/butsudoi2021/slides/slides.html#32)
+- [Special Function](https://zenn.dev/ohno/articles/f352f354e5cf96)
+- [Harmonic Oscillator](https://zenn.dev/ohno/articles/870b0c2a0af590)
+- [Morse Potential](https://zenn.dev/ohno/articles/f849d98a7f58a9)
+- [Hydrogen Atom](https://zenn.dev/ohno/articles/e1103bc0d58ceb)
 
 ### 🔰 Julia Tutorials
 - [Hello World!](https://zenn.dev/ohno/articles/cf2b4d09d4480e)
