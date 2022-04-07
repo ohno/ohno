@@ -1,5 +1,5 @@
 ### ☕ Hello! I am a
-- 🎓 Graduate Student @[YCU QPC lab.](http://www-user.yokohama-cu.ac.jp/~tachi/index.html) (ab initio calculations for exotic molecules)
+- 🎓 Graduate Student @[YCU QPC lab.](http://www-user.yokohama-cu.ac.jp/~tachi/index.html) (ab initio calculations for isotopomers and exotic molecules)
 - 💻 Websites Engineer @[Qumpoo Inc.](https://qumpoo.com/)
 
 <!-- ![ohno's github stats](https://github-readme-stats.vercel.app/api?username=ohno&show_icons=true&theme=react&show_icons=true)  -->
