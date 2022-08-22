@@ -57,7 +57,7 @@
 - [Langevin Equation](https://ohno.github.io/butsudoi2021/slides/slides.html#32)
 - [Special Function](https://zenn.dev/ohno/articles/f352f354e5cf96)
 - [Harmonic Oscillator](https://zenn.dev/ohno/articles/870b0c2a0af590)
-- [Morse Potential](https://zenn.dev/ohno/articles/f849d98a7f58a9)
+- [Morse Oscillator](https://zenn.dev/ohno/articles/f849d98a7f58a9)
 - [Hydrogen Atom](https://zenn.dev/ohno/articles/e1103bc0d58ceb)
 
 ### 🔰 Julia Tutorials
@@ -90,3 +90,21 @@
 - [highlight.js](https://ohno.github.io/#highlight.js)
 - [escape-html](https://ohno.github.io/#escape-html)
 - [Three.js](https://ohno.github.io/#Three.js)
+
+### 💻Windows Setup for Computational Science
+- [Speed of mouse pointer](https://zenn.dev/ohno/books/356315a0e6437c/viewer/5d3882)
+- [Visual Studio Code](https://zenn.dev/ohno/books/356315a0e6437c/viewer/d027ca)
+- [Git](https://zenn.dev/ohno/books/356315a0e6437c/viewer/ee43f9)
+- [LaTeX](https://zenn.dev/ohno/books/356315a0e6437c/viewer/547128)
+- [gnuplot](https://zenn.dev/ohno/books/356315a0e6437c/viewer/68bd69)
+- [Julia](https://zenn.dev/ohno/books/356315a0e6437c/viewer/c7687c)
+- [Jupyter Notebook](https://zenn.dev/ohno/books/356315a0e6437c/viewer/2d6928)
+- [WSL](https://zenn.dev/ohno/books/356315a0e6437c/viewer/3fefe4)
+- [C/C++/Fortran](https://zenn.dev/ohno/books/356315a0e6437c/viewer/2b78dd)
+- [LAPACK](https://zenn.dev/ohno/books/356315a0e6437c/viewer/5c057f)
+- [OpenMPI](https://zenn.dev/ohno/books/356315a0e6437c/viewer/5a9c0c)
+- [Winmostar](https://zenn.dev/ohno/books/356315a0e6437c/viewer/e700d2)
+- [MOPAC](https://zenn.dev/ohno/books/356315a0e6437c/viewer/165a25)
+- [Gaussian 16](https://zenn.dev/ohno/books/356315a0e6437c/viewer/52b763)
+- [Gauss View 6](https://zenn.dev/ohno/books/356315a0e6437c/viewer/51928f)
+- [GAMESS](https://zenn.dev/ohno/books/356315a0e6437c/viewer/072540)
