@@ -1,5 +1,5 @@
 ### ☕ Hello! I am a
-- 🎓 Graduate Student @[YCU QPC lab.](http://www-user.yokohama-cu.ac.jp/~tachi/index.html) (ab initio calculations for isotopomers and exotic molecules)
+- 🎓 Graduate Student @[YCU QPC lab.](http://www-user.yokohama-cu.ac.jp/~tachi/index.html)
 - 💻 Websites Engineer @[Qumpoo Inc.](https://qumpoo.com/)
 
 <!-- ![ohno's github stats](https://github-readme-stats.vercel.app/api?username=ohno&show_icons=true&theme=react&show_icons=true)  -->
@@ -44,6 +44,16 @@
   <img alt="WordPress" src="https://img.shields.io/badge/WordPress-117AC9.svg?style=flat&logo=WordPress&logoColor=white"/>
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?style=flat&logo=php&logoColor=white"/>
 </p>
+
+### 👀 My Interest
+- Computational Physics
+- Chemical Physics
+- Ab Initio Calculations
+- Variational Method
+- Quantum Monte Carlo Method
+- Few Body Coulomb System
+- Isotope Effects
+- Exotic molecules (contain Muons, Positrons)
 
 ### 📚 Lecture Notes
 <!-- - [Taylor Series](https://gist.github.com/ohno/b0d034da7d0e56853b706e1259925600) -->
