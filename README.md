@@ -53,7 +53,7 @@
 - Quantum Monte Carlo Method
 - Few Body Coulomb System
 - Isotope Effects
-- Exotic molecules (contain Muons, Positrons)
+- Exotic Molecules (contain Muons, Positrons)
 
 ### 📚 Lecture Notes
 <!-- - [Taylor Series](https://gist.github.com/ohno/b0d034da7d0e56853b706e1259925600) -->
