@@ -50,8 +50,11 @@
 - Chemical Physics
 - Ab Initio Calculations
 - Variational Method
-- Quantum Monte Carlo Method
-- Few Body Coulomb System
+- Explicitly Correlated Gaussian Basis Functious - [Mitroy et al. (2013)](https://doi.org/10.1103/RevModPhys.85.693)
+- Infinitesimally-shifted Gaussian Basis Functious - [Hiyama et al. (2018)](https://doi.org/10.1007/s11467-018-0828-5)
+- Diffusion Quantum Monte Carlo Method - [Kosztin et al. (1996)](https://doi.org/10.1119/1.18168), [Petruzielo et al. (2012)](https://doi.org/10.1063/1.3697846)
+- Few Body Coulomb Systems
+- Excited States
 - Isotope Effects
 - Exotic Molecules (contain Muons, Positrons)
 
