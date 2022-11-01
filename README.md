@@ -5,7 +5,7 @@
 <!-- ![ohno's github stats](https://github-readme-stats.vercel.app/api?username=ohno&show_icons=true&theme=react&show_icons=true)  -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohno&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
-### 🧰 Toolbox
+### 🧰 My Toolbox
 <p>
   <img alt="Windows" src="https://img.shields.io/badge/Windows-00599C?style=flat&logo=windows&logoColor=white"/>
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
@@ -45,7 +45,7 @@
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?style=flat&logo=php&logoColor=white"/>
 </p>
 
-### 👀 My Interest
+### 👀 My Interests
 - Computational Physics
 - Chemical Physics
 - Ab Initio Calculations
