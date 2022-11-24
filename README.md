@@ -1,6 +1,6 @@
-### ☕ Hello! I am a
-- 🎓 Graduate Student @[YCU QPC lab.](http://www-user.yokohama-cu.ac.jp/~tachi/index.html)
-- 💻 Websites Engineer @[Qumpoo Inc.](https://qumpoo.com/)
+### ☕ Hello!
+- 🎓 Greetings. My name is Shuhei Ohno. I am a graduate studen at [Yokohama City University](http://www-user.yokohama-cu.ac.jp/~tachi/). My major is computaional physics and computaional chemistry by high-performance computing. My lectures and tutorials are available [here](https://zenn.dev/ohno).
+- 💻 I was a website engineer at [Qumpoo inc.](https://qumpoo.com/) until 2020. Now, I am website producting by freelance to cover the tuition fees. Examples of my products can be found [here](http://orchestra.musicinfo.co.jp/~ycuorch/) and [here](https://sjws.or.jp/).
 
 <!-- ![ohno's github stats](https://github-readme-stats.vercel.app/api?username=ohno&show_icons=true&theme=react&show_icons=true)  -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohno&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
@@ -74,8 +74,8 @@
 - [Hydrogen Atom](https://zenn.dev/ohno/articles/e1103bc0d58ceb)
 
 ### 🔰 Julia Tutorials
-- [Hello World!](https://zenn.dev/ohno/articles/cf2b4d09d4480e)
-- [Jupyter Notebook](https://zenn.dev/ohno/articles/7e83ffa103e43f)
+- [Hello World!](https://zenn.dev/ohno/articles/5ad94fb39a3948)
+- [Jupyter Notebook](https://zenn.dev/ohno/articles/5ad94fb39a3948)
 - [Plots.jl](https://zenn.dev/ohno/articles/3101433fbe9231)
 - [Optim.jl](https://zenn.dev/ohno/articles/2a1dc7d609e5bc)
 - [LinearAlgebra.jl](https://zenn.dev/ohno/articles/dea98121f6d966)
