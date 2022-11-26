@@ -1,6 +1,6 @@
 ### ☕ Hello!
 - 🎓 Greetings. My name is Shuhei Ohno. I am a graduate studen at [Yokohama City University](http://www-user.yokohama-cu.ac.jp/~tachi/). My major is computaional physics and computaional chemistry by high-performance computing. My lectures and tutorials are available [here](https://zenn.dev/ohno).
-- 💻 I was a website engineer at [Qumpoo inc.](https://qumpoo.com/) until 2020. Now, I am website producting by freelance to cover the tuition fees. Examples of my products can be found [here](http://orchestra.musicinfo.co.jp/~ycuorch/) and [here](https://sjws.or.jp/).
+- 💻 I was a website engineer at [Qumpoo inc.](https://qumpoo.com/) until 2020. Now, I develop websites as a freelancer to cover the tuition fees. Examples of my products can be found [here](http://orchestra.musicinfo.co.jp/~ycuorch/) and [here](https://sjws.or.jp/).
 
 <!-- ![ohno's github stats](https://github-readme-stats.vercel.app/api?username=ohno&show_icons=true&theme=react&show_icons=true)  -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohno&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
