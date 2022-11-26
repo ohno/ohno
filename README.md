@@ -79,7 +79,7 @@
 - [Plots.jl](https://zenn.dev/ohno/articles/3101433fbe9231)
 - [Optim.jl](https://zenn.dev/ohno/articles/2a1dc7d609e5bc)
 - [LinearAlgebra.jl](https://zenn.dev/ohno/articles/dea98121f6d966)
-- [Dates.jl](https://zenn.dev/articles/e7cfd5857db8d7/edit)
+- [Dates.jl](https://zenn.dev/ohno/articles/e7cfd5857db8d7)
 - [Printf.jl](https://zenn.dev/ohno/articles/8b35354a8140f8)
 - [BenchmarkTools.jl](https://zenn.dev/ohno/articles/0ba7970d419898) 
 - [Running External Programs in Julia](https://zenn.dev/ohno/articles/a922710b53ea02)
