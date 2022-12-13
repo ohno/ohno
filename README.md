@@ -46,6 +46,13 @@
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?style=flat&logo=php&logoColor=white"/>
 </p>
 
+### 🤝 Society
+
+- [The Physical Society of Japan, JPS](https://www.jps.or.jp/)
+- [Japanese Positron Science Society, JPOSS](https://positron-science.org/)
+- [Japan Society of Theoretical Chemistry, JSTC](https://www.jstc.org/)
+- [Japan Society for Molecular Science, JSMS](http://www.molsci.jp/)
+
 ### 👀 My Interests
 - Computational Physics
 - Chemical Physics
