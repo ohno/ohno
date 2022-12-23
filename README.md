@@ -48,12 +48,13 @@
 
 ### 🤝 Society
 
-- [The Physical Society of Japan, JPS](https://www.jps.or.jp/)
-- [Japanese Positron Science Society, JPOSS](https://positron-science.org/)
-- [Japan Society of Theoretical Chemistry, JSTC](https://www.jstc.org/)
-- [Japan Society for Molecular Science, JSMS](http://www.molsci.jp/)
+- [Japanese Positron Science Society, JPOSS](https://positron-science.org/) 2021/11/12 -
+- [The Physical Society of Japan, JPS](https://www.jps.or.jp/) 2021/12/01 -
+- [Japan Society of Theoretical Chemistry, JSTC](https://www.jstc.org/) 2022/3/29 -
+- [Japan Society for Molecular Science, JSMS](http://www.molsci.jp/) 2022/6/3 -
 
 ### 👀 My Interests
+
 - Computational Physics
 - Chemical Physics
 - Ab Initio Calculations
@@ -67,6 +68,7 @@
 - Exotic Molecules (contain Muons, Positrons)
 
 ### 📚 Lecture Notes
+
 <!-- - [Taylor Series](https://gist.github.com/ohno/b0d034da7d0e56853b706e1259925600) -->
 <!-- - [Diffusion Equation](https://gist.github.com/ohno/1eccdd8d6e04e41683095c2e693a9b1b) -->
 <!-- - [Random Walk Model](https://gist.github.com/ohno/8645edfe0a12c95b87f57ab7191fd966) -->
@@ -82,6 +84,8 @@
 - [Hydrogen Atom](https://zenn.dev/ohno/articles/e1103bc0d58ceb)
 
 ### 🔰 Julia Tutorials
+
+- [Introduction](https://zenn.dev/ohno/articles/5ad94fb39a3948)
 - [Hello World!](https://zenn.dev/ohno/articles/5ad94fb39a3948)
 - [Jupyter Notebook](https://zenn.dev/ohno/articles/5ad94fb39a3948)
 - [Plots.jl](https://zenn.dev/ohno/articles/3101433fbe9231)
@@ -95,8 +99,13 @@
 - [LaTeXStrings](https://zenn.dev/ohno/articles/f352f354e5cf96#latex%E8%A1%A8%E7%A4%BA)
 - [SpecialFunctions.jl](https://zenn.dev/ohno/articles/f352f354e5cf96#%E3%82%AC%E3%83%B3%E3%83%9E%E9%96%A2%E6%95%B0)
 - [SpecialPolynomials.jl](https://zenn.dev/ohno/articles/f352f354e5cf96#%E3%82%A8%E3%83%AB%E3%83%9F%E3%83%BC%E3%83%88%E5%A4%9A%E9%A0%85%E5%BC%8F)
+- [Symbolics.jl](https://zenn.dev/ohno/articles/0aaace3224c4fa)
+- [Measurements.jl](https://zenn.dev/ohno/articles/8f53d45f9ae85d)
+- [BigFloat](https://zenn.dev/ohno/articles/4fff91b048e0d3)
+- [GenericLinearAlgebra.jl](https://zenn.dev/ohno/articles/fd1c669be6fa38)
 
 ### 💡 CDN Examples
+
 - [c3.js](https://ohno.github.io/#c3.js)
 - [MathJax](https://ohno.github.io/#MathJax)
 - [Marked](https://ohno.github.io/#Marked)
@@ -113,6 +122,7 @@
 - [Three.js](https://ohno.github.io/#Three.js)
 
 ### 💻Windows Setup for Computational Science
+
 - [Speed of mouse pointer](https://zenn.dev/ohno/books/356315a0e6437c/viewer/5d3882)
 - [Visual Studio Code](https://zenn.dev/ohno/books/356315a0e6437c/viewer/d027ca)
 - [Git](https://zenn.dev/ohno/books/356315a0e6437c/viewer/ee43f9)
