@@ -1,5 +1,5 @@
 ### ☕ Hello!
-- 🎓 Greetings. My name is Shuhei Ohno. I am a graduate studen at [Yokohama City University](http://www-user.yokohama-cu.ac.jp/~tachi/). My major is computaional physics and computaional chemistry by high-performance computing. My lectures and tutorials are available [here](https://zenn.dev/ohno). [Introduction to Plots.jl](https://zenn.dev/ohno/articles/3101433fbe9231) and [FORTRAN and Fortran](https://zenn.dev/ohno/articles/b104fe8f506439) is the most popular.
+- 🎓 Greetings everyone. My name is Shuhei Ohno. I am a graduate studen at [Yokohama City University](http://www-user.yokohama-cu.ac.jp/~tachi/). My major is computaional physics and computaional chemistry by high-performance computing. My lectures and tutorials are available [here](https://zenn.dev/ohno). [Introduction to Plots.jl](https://zenn.dev/ohno/articles/3101433fbe9231) and [FORTRAN and Fortran](https://zenn.dev/ohno/articles/b104fe8f506439) is the most popular.
 - 💻 Until 2020, I was a website engineer at [Qumpoo inc.](https://qumpoo.com/). Now, I develop websites as a freelancer to cover the tuition fees. I have executed more than 30 projects. Examples of my products can be found [here](http://orchestra.musicinfo.co.jp/~ycuorch/) and [here](https://sjws.or.jp/).
 - 🌟 My popular open source project is [GitHub:QR](https://ohno.github.io/github-qr/). 
 
