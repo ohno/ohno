@@ -58,6 +58,8 @@
 ### 👀 Research Interests
 
 - Computational Physics
+- Computational Chemistry
+- Physical Chemistry
 - Chemical Physics
 - Ab Initio Calculations
 - Variational Method
