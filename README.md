@@ -61,6 +61,8 @@
 - Computational Chemistry
 - Physical Chemistry
 - Chemical Physics
+- Atomic and Molecular Physics
+- Quantum Chemistry
 - Ab Initio Calculations
 - Variational Method
 - Explicitly Correlated Gaussian Basis Functious - [Mitroy et al. (2013)](https://doi.org/10.1103/RevModPhys.85.693)
