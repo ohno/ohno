@@ -1,5 +1,5 @@
 ### ☕ Hello!
-- 🎓 Greetings everyone. My name is Shuhei Ohno. I am a doctral student (D1) at [Yokohama City University](http://www-user.yokohama-cu.ac.jp/~tachi/) and a Junior Research Associate (JRA) at [RIKEN](https://www.riken.jp/en/research/labs/rnc/few-body_syst_phys/index.html). My major is computaional physics and computaional chemistry. 
+- 🎓 Greetings everyone. My name is Shuhei Ohno. I am a doctral student (D1) at [Yokohama City University](http://www-user.yokohama-cu.ac.jp/~tachi/) and a junior research associate (JRA) at [RIKEN](https://www.riken.jp/en/research/labs/rnc/few-body_syst_phys/index.html). My major is computational physics and computational chemistry. 
 - 💻 Until 2020, I was a website engineer at [Qumpoo inc.](https://qumpoo.com/). Now, I develop websites as a freelancer to cover the tuition fees. I have executed more than 30 projects. Examples of my products can be found [here](http://orchestra.musicinfo.co.jp/~ycuorch/) and [here](https://sjws.or.jp/).
 - 🌟 My lectures and tutorials are available [here](https://zenn.dev/ohno). [Introduction to Plots.jl](https://zenn.dev/ohno/articles/3101433fbe9231) is the most popular. My popular open source project is [GitHub:QR](https://ohno.github.io/github-qr/). 
 
