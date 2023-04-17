@@ -93,6 +93,9 @@
 - [Harmonic Oscillator](https://zenn.dev/ohno/articles/870b0c2a0af590)
 - [Morse Oscillator](https://zenn.dev/ohno/articles/f849d98a7f58a9)
 - [Hydrogen Atom](https://zenn.dev/ohno/articles/e1103bc0d58ceb)
+- [Rodrigues' formula](https://zenn.dev/ohno/articles/0aaace3224c4fa)
+- [Hartree-Fock method](https://zenn.dev/ohno/articles/043628cfb32f6d)
+- [Ill-conditioned Eigenvalue problems](https://zenn.dev/ohno/articles/fd1c669be6fa38)
 
 ### 🔰 Julia Tutorials
 
@@ -114,6 +117,7 @@
 - [Measurements.jl](https://zenn.dev/ohno/articles/8f53d45f9ae85d)
 - [BigFloat](https://zenn.dev/ohno/articles/4fff91b048e0d3)
 - [GenericLinearAlgebra.jl](https://zenn.dev/ohno/articles/fd1c669be6fa38)
+- [GeoJSON.jl](https://zenn.dev/ohno/articles/6834ef0fca9df7)
 
 ### 💡 CDN Examples
 
