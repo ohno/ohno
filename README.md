@@ -49,7 +49,7 @@
 ### 🚩 Affiliation
 
 - [Quantum Physical Chemistry Laboratory, Department of Materials System Science, Graduate School of Nanobioscience, Yokohama City University](http://www-user.yokohama-cu.ac.jp/~tachi/en/index.html)
-- [Few-body Systems in Physics Laboratory, RIKEN Nishina Center for Accelerator-Based Science](https://www.riken.jp/en/research/labs/rnc/few-body_syst_phys/index.html)
+- [Few-ody Systems in Physics Laboratory, RIKEN Nishina Center for Accelerator-Based Science](https://www.riken.jp/en/research/labs/rnc/few-body_syst_phys/index.html)
 
 ### 🤝 Professional Memberships
 
