@@ -2,7 +2,7 @@
 
 - 🎓 Greetings everyone. My name is Shuhei Ohno. I am a PhD student (D1) at [Yokohama City University](http://www-user.yokohama-cu.ac.jp/~tachi/) and a junior research associate (JRA) at [RIKEN](https://www.riken.jp/en/research/labs/rnc/few-body_syst_phys/index.html). My major is computational physics and computational chemistry.
 - 💻 Until 2020, I was a website engineer at [Qumpoo inc.](https://qumpoo.com/). Now, I develop websites as a freelancer to cover the tuition fees. I have executed more than 30 projects. Examples of my nonsecret products can be found [here](http://orchestra.musicinfo.co.jp/~ycuorch/) and [here](https://sjws.or.jp/).
-- 🌟 My lectures and tutorials are available [here](https://zenn.dev/ohno). [Introduction to Plots.jl](https://zenn.dev/ohno/articles/3101433fbe9231) and [FORTRAN and Fortran](https://zenn.dev/ohno/articles/b104fe8f506439) are popular. My popular open source project is [GitHub:QR](https://ohno.github.io/github-qr/). 
+- 🌟 My lectures and tutorials are available [here](https://zenn.dev/ohno). [Introduction to Plots.jl](https://zenn.dev/ohno/articles/3101433fbe9231) and [FORTRAN and Fortran](https://zenn.dev/ohno/articles/b104fe8f506439) are popular. My popular open source projects are [GitHub:QR](https://ohno.github.io/github-qr/) and [Fortran2Julia.js](https://ohno.github.io/Fortran2Julia.js/). 
 
 <!-- ![ohno's github stats](https://github-readme-stats.vercel.app/api?username=ohno&show_icons=true&theme=react&show_icons=true)  -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohno&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
