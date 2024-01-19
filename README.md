@@ -65,7 +65,7 @@
   <img alt="SVG" src="https://img.shields.io/badge/SVG-323330.svg?style=flat&logo=html5&logoColor=white"/>
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?style=flat&logo=markdown&logoColor=white"/>
   <img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter%20Notebook-FA0F00.svg?style=flat&logo=jupyter&logoColor=white"/>
-  <a href="https://zenn.com/ohno/"><img alt="Zenn" src="https://img.shields.io/badge/Zenn-3EA8FF.svg?logo=Zenn&style=flat&logoColor=white"></a>
+  <a href="https://zenn.dev/ohno/"><img alt="Zenn" src="https://img.shields.io/badge/Zenn-3EA8FF.svg?logo=Zenn&style=flat&logoColor=white"></a>
   <br>
   <img alt="Fortran" src="https://img.shields.io/static/v1?style=flat&message=Fortran&color=734F96&logo=Fortran&logoColor=FFFFFF&label="/>
   <img alt="Julia" src="https://img.shields.io/badge/Julia-9558B2?style=flat&logo=julia&logoColor=white"/>
