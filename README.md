@@ -161,3 +161,4 @@
 - [Gaussian 16](https://zenn.dev/ohno/books/356315a0e6437c/viewer/52b763)
 - [Gauss View 6](https://zenn.dev/ohno/books/356315a0e6437c/viewer/51928f)
 - [GAMESS](https://zenn.dev/ohno/books/356315a0e6437c/viewer/072540)
+- [SMASH](https://zenn.dev/ohno/books/356315a0e6437c/viewer/47d024)
