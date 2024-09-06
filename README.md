@@ -1,48 +1,12 @@
-### ☕ Hello!
+Greetings everyone. My name is Shuhei Ohno. I am a PhD student, a junior researcher and a websites engineer. Please see [resarchmap](https://researchmap.jp/sohno?lang=en) for more information.
 
-- 🎓 Greetings everyone. My name is Shuhei Ohno. I am a PhD student (D2) at [Yokohama City University](http://www-user.yokohama-cu.ac.jp/~tachi/) and a junior research associate (JRA) at [RIKEN](https://www.riken.jp/en/research/labs/rnc/few-body_syst_phys/index.html). My major is computational physics and computational chemistry.
-- 💻 Until 2020, I was a website engineer at [Qumpoo inc.](https://qumpoo.com/). Now, I develop websites as a freelancer to cover the tuition fees. I have executed more than 30 projects. Examples of my nonsecret products can be found [here](http://orchestra.musicinfo.co.jp/~ycuorch/) and [here](https://sjws.or.jp/).
-- 🌟 My lectures and tutorials are available [here](https://zenn.dev/ohno). [Introduction to Plots.jl](https://zenn.dev/ohno/articles/3101433fbe9231) and [FORTRAN and Fortran](https://zenn.dev/ohno/articles/b104fe8f506439) are popular. My popular open source projects are [Antique.jl](https://ohno.github.io/Antique.jl/stable/) and [GitHub:QR](https://ohno.github.io/github-qr/). 
+<a href='https://researchmap.jp/sohno?lang=en' target='_blank'><img title='researchmap' alt='researchmap' src='https://researchmap.jp/outline/img/researchmap220.gif' /></a>
 
+<!--🏢👀🚩🏫🏆📜🧑‍💼🤝
+Until 2020, I was a website engineer at [Qumpoo inc.](https://qumpoo.com/). Since 2021, I developed websites as a freelancer to cover the tuition fees. I have executed more than 30 projects. Examples of my nonsecret products can be found [here](http://orchestra.musicinfo.co.jp/~ycuorch/) and [here](https://sjws.or.jp/). My lectures and tutorials are available [here](https://zenn.dev/ohno). [Introduction to Plots.jl](https://zenn.dev/ohno/articles/3101433fbe9231) and [FORTRAN and Fortran](https://zenn.dev/ohno/articles/b104fe8f506439) are popular. My popular open source projects are [Antique.jl](https://ohno.github.io/Antique.jl/stable/) and [GitHub:QR](https://ohno.github.io/github-qr/).
+-->
 <!-- ![ohno's github stats](https://github-readme-stats.vercel.app/api?username=ohno&show_icons=true&theme=react&show_icons=true)  -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohno&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-
-### 🏢 Affiliation
-
-- [Quantum Physical Chemistry Laboratory, Department of Materials System Science, Graduate School of Nanobioscience, Yokohama City University](http://www-user.yokohama-cu.ac.jp/~tachi/index.html)
-- [Few-Body Systems Physics Laboratory, RIKEN Nishina Center for Accelerator-Based Science](http://snp.riken.jp/news.php)
-
-### 👀 Research Interests
-
-- Small Molecules as Few-Body Coulomb Systems
-- Excited States
-- Isotope Effects
-- Nonadiabatic Effects
-- Born-Oppenheimer Approximation
-- Rayleigh-Ritz variational principle
-- Ab Initio Calculations
-- Explicitly Correlated Gaussian Basis Functious - [Mitroy et al. (2013)](https://doi.org/10.1103/RevModPhys.85.693)
-- Infinitesimally-shifted Gaussian Basis Functious - [Hiyama et al. (2018)](https://doi.org/10.1007/s11467-018-0828-5)
-- Diffusion Quantum Monte Carlo Method - [Kosztin et al. (1996)](https://doi.org/10.1119/1.18168), [Petruzielo et al. (2012)](https://doi.org/10.1063/1.3697846)
-
-### 🚩 Research Areas
-
-- Few-Body System Physics
-- Quantum Chemistry
-- Chemical Physics
-- Physical Chemistry
-- Computational Physics
-- Computational Chemistry
-
-### 🤝 Professional Memberships
-
-|Dates|Societies|
-|:-|:-|
-|2021/11/12 - |[Japanese Positron Science Society, JPOSS](https://positron-science.org/)|
-|2021/12/01 - |[The Physical Society of Japan, JPS](https://www.jps.or.jp/)|
-|2022/3/29  - |[Japan Society of Theoretical Chemistry, JSTC](https://www.jstc.org/)|
-|2022/6/3   - |[Japan Society for Molecular Science, JSMS](http://www.molsci.jp/)|
-
 
 ### 🧰 My Toolbox
 <p>
