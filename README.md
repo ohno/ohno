@@ -49,7 +49,7 @@ Greetings everyone. My name is Shuhei Ohno. I am a PhD student, a junior researc
 
 ### 🎨 My Products
 
-Until 2020, I was a website engineer at [Qumpoo inc.](https://qumpoo.com/). I have executed more than 30 projects. Examples of my nonsecret (academic) products are here:
+Until 2020, I was a website engineer at [Qumpoo inc.](https://qumpoo.com/). Now, I develop websites as a freelancer to cover the tuition fees, and also as a student / a researcher to support academic workshops and conferences. I have executed more than 30 projects. Examples of my nonsecret products are here:
 
 - [POSMOL 2025 (International Workshop)](https://www-user.yokohama-cu.ac.jp/~tachi/posmol2025/)
 - [8th Japan-Thai workshop on Theoretical and Computational Chemistry 2023 (International Workshop)](https://ycuqpc.github.io/JTTCC8th/)
