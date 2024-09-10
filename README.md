@@ -1,12 +1,9 @@
 ### ☕ Hello!
 
-Greetings everyone. My name is Shuhei Ohno. I am a PhD student, a junior researcher and a websites engineer. Please see [resarchmap](https://researchmap.jp/sohno?lang=en) for more information.
+Greetings everyone. My name is Shuhei Ohno. I am a PhD student, a junior researcher and a websites engineer. Please see [resarchmap](https://researchmap.jp/sohno?lang=en) for more information:
 
 <a href='https://researchmap.jp/sohno?lang=en' target='_blank'><img title='researchmap' alt='researchmap' src='https://researchmap.jp/outline/img/researchmap220.gif' /></a>
 
-<!--🏢👀🚩🏫🏆📜🧑‍💼🤝
-Until 2020, I was a website engineer at [Qumpoo inc.](https://qumpoo.com/). Since 2021, I developed websites as a freelancer to cover the tuition fees. I have executed more than 30 projects. Examples of my nonsecret products can be found [here](http://orchestra.musicinfo.co.jp/~ycuorch/) and [here](https://sjws.or.jp/). My lectures and tutorials are available [here](https://zenn.dev/ohno). [Introduction to Plots.jl](https://zenn.dev/ohno/articles/3101433fbe9231) and [FORTRAN and Fortran](https://zenn.dev/ohno/articles/b104fe8f506439) are popular. My popular open source projects are [Antique.jl](https://ohno.github.io/Antique.jl/stable/) and [GitHub:QR](https://ohno.github.io/github-qr/).
--->
 <!-- ![ohno's github stats](https://github-readme-stats.vercel.app/api?username=ohno&show_icons=true&theme=react&show_icons=true)  -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohno&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
@@ -50,8 +47,24 @@ Until 2020, I was a website engineer at [Qumpoo inc.](https://qumpoo.com/). Sinc
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?style=flat&logo=php&logoColor=white"/>
 </p>
 
+### 🎨 My Products
+
+Until 2020, I was a website engineer at [Qumpoo inc.](https://qumpoo.com/). I have executed more than 30 projects. Examples of my nonsecret (academic) products are here:
+
+- [POSMOL 2025 (International Workshop)](https://www-user.yokohama-cu.ac.jp/~tachi/posmol2025/)
+- [8th Japan-Thai workshop on Theoretical and Computational Chemistry 2023 (International Workshop)](https://ycuqpc.github.io/JTTCC8th/)
+- [8th International Workshop on Quantum Chemistry, 2023 (International Workshop)](https://ycuqpc.github.io/IWQC8th/)
+- [The 25th Annual Meeting of Japan Society of Theoretical Chemistry (Conference)](https://jstc.org/theochem25/)
+- [The Society of Japanese Women Scientists (Society)](https://sjws.or.jp/)
+- [YCU Orchestra (Club)](http://orchestra.musicinfo.co.jp/~ycuorch/)
+- [GitHub:QR (QR code generator)](https://ohno.github.io/github-qr/)
+- [Fortran2Julia.js (Transpiler)](https://ohno.github.io/Fortran2Julia.js/)
+- [Sci2Dec.js (Formatter)](https://ohno.github.io/sci2dec.js/)
+- [Underleaf (Real Time LaTeX Editor)](https://ohno.github.io/underleaf/)
 
 ### 📚 My Notebooks
+
+My lectures and tutorials are available [here](https://zenn.dev/ohno). [FORTRAN and Fortran](https://zenn.dev/ohno/articles/b104fe8f506439) is the most popular article.
 
 <!-- - [Taylor Series](https://gist.github.com/ohno/b0d034da7d0e56853b706e1259925600) -->
 <!-- - [Diffusion Equation](https://gist.github.com/ohno/1eccdd8d6e04e41683095c2e693a9b1b) -->
@@ -68,9 +81,12 @@ Until 2020, I was a website engineer at [Qumpoo inc.](https://qumpoo.com/). Sinc
 - [Hydrogen Atom](https://zenn.dev/ohno/articles/e1103bc0d58ceb)
 - [Rodrigues' formula](https://zenn.dev/ohno/articles/0aaace3224c4fa)
 - [Hartree-Fock method](https://zenn.dev/ohno/articles/043628cfb32f6d)
-- [Ill-conditioned Eigenvalue problems](https://zenn.dev/ohno/articles/fd1c669be6fa38)
+- [Ill-conditioned Eigenvalue problems](https://zenn.dev/ohno/articles/fd1c669be6fa38) [GitHub repo](https://github.com/ohno/ill-conditioned)
+- [FORTRAN and Fortran](https://zenn.dev/ohno/articles/b104fe8f506439) [GitHub repo](https://github.com/ohno/F77F90)
 
 ### 🔰 Julia Tutorials
+
+My lectures and tutorials are available [here](https://zenn.dev/ohno). [Introduction to Plots.jl](https://zenn.dev/ohno/articles/3101433fbe9231) is the most popular article.
 
 - [Introduction](https://zenn.dev/ohno/articles/5ad94fb39a3948)
 - [Hello World!](https://zenn.dev/ohno/articles/5ad94fb39a3948)
@@ -94,6 +110,8 @@ Until 2020, I was a website engineer at [Qumpoo inc.](https://qumpoo.com/). Sinc
 
 ### 💡 CDN Examples
 
+[Here](https://ohno.github.io/) are examples of JavaScript libraries via CDNs:
+
 - [c3.js](https://ohno.github.io/#c3.js)
 - [MathJax](https://ohno.github.io/#MathJax)
 - [Marked](https://ohno.github.io/#Marked)
@@ -109,7 +127,9 @@ Until 2020, I was a website engineer at [Qumpoo inc.](https://qumpoo.com/). Sinc
 - [escape-html](https://ohno.github.io/#escape-html)
 - [Three.js](https://ohno.github.io/#Three.js)
 
-### 💻Windows Setup for Computational Science
+### 💻 Windows Setup for Computational Science
+
+[Here](https://zenn.dev/ohno/books/356315a0e6437c) are the setup procedures for the scientific softwares:
 
 - [Speed of mouse pointer](https://zenn.dev/ohno/books/356315a0e6437c/viewer/5d3882)
 - [Visual Studio Code](https://zenn.dev/ohno/books/356315a0e6437c/viewer/d027ca)
@@ -128,3 +148,22 @@ Until 2020, I was a website engineer at [Qumpoo inc.](https://qumpoo.com/). Sinc
 - [Gauss View 6](https://zenn.dev/ohno/books/356315a0e6437c/viewer/51928f)
 - [GAMESS](https://zenn.dev/ohno/books/356315a0e6437c/viewer/072540)
 - [SMASH](https://zenn.dev/ohno/books/356315a0e6437c/viewer/47d024)
+
+### 🌱 My Templates
+
+- [HTML](https://github.com/ohno/html-example)
+- [PHP](https://github.com/ohno/php-example)
+- [Jekyll](https://github.com/ohno/jekyll-example)
+- [Slidev](https://github.com/ohno/slidev-example)
+
+### 📦 My Packages
+
+- [Antique.jl](https://ohno.github.io/Antique.jl/stable/)
+- [FiniteDifferenceMatrices.jl](https://ohno.github.io/FiniteDifferenceMatrices.jl/stable/)
+- [popup.js](https://ohno.github.io/popup.js/)
+- [ScaleBreaks.svg](https://github.com/ohno/ScaleBreaks.svg)
+
+### 🧑‍🏫 My Slides
+
+- [Introduction to Gaussian16 (PowerPoint)](https://github.com/ohno/gaussian)
+- [Numerical Calculations for the Langevin Equation in Julia (Marp for VS Code)](https://github.com/ohno/butsudoi2021/)
