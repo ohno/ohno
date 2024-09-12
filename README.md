@@ -81,8 +81,8 @@ My lectures and tutorials are available [here](https://zenn.dev/ohno). [FORTRAN 
 - [Hydrogen Atom](https://zenn.dev/ohno/articles/e1103bc0d58ceb)
 - [Rodrigues' formula](https://zenn.dev/ohno/articles/0aaace3224c4fa)
 - [Hartree-Fock method](https://zenn.dev/ohno/articles/043628cfb32f6d)
-- [Ill-conditioned Eigenvalue problems](https://zenn.dev/ohno/articles/fd1c669be6fa38) [GitHub repo](https://github.com/ohno/ill-conditioned)
-- [FORTRAN and Fortran](https://zenn.dev/ohno/articles/b104fe8f506439) [GitHub repo](https://github.com/ohno/F77F90)
+- [Ill-conditioned Eigenvalue problems](https://zenn.dev/ohno/articles/fd1c669be6fa38) ([repo](https://github.com/ohno/ill-conditioned))
+- [FORTRAN and Fortran](https://zenn.dev/ohno/articles/b104fe8f506439) ([repo](https://github.com/ohno/F77F90))
 
 ### 🔰 Julia Tutorials
 
