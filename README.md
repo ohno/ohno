@@ -55,6 +55,7 @@ Until 2020, I was a website engineer at [Qumpoo inc.](https://qumpoo.com/). Now,
 - [8th Japan-Thai workshop on Theoretical and Computational Chemistry 2023 (International Workshop)](https://ycuqpc.github.io/JTTCC8th/)
 - [8th International Workshop on Quantum Chemistry, 2023 (International Workshop)](https://ycuqpc.github.io/IWQC8th/)
 - [The 25th Annual Meeting of Japan Society of Theoretical Chemistry (Conference)](https://jstc.org/theochem25/)
+- [Julia in Physics 2024 (Workshop)](https://ohno.github.io/julia_in_physics_2024/)
 - [The Society of Japanese Women Scientists (Society)](https://sjws.or.jp/)
 - [YCU Orchestra (Club)](http://orchestra.musicinfo.co.jp/~ycuorch/)
 - [GitHub:QR (QR code generator)](https://ohno.github.io/github-qr/)
