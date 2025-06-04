@@ -51,25 +51,45 @@ Greetings everyone. My name is Shuhei Ohno. I am a PhD student, a junior researc
 
 Until 2020, I was a website engineer at [Qumpoo inc.](https://qumpoo.com/). Now, I develop websites as a freelancer to cover the tuition fees, and also as a student / a researcher to support academic workshops and conferences. I have executed more than 30 projects. Examples of my nonsecret products are here:
 
-- [POSMOL 2025 (International Workshop)](https://www-user.yokohama-cu.ac.jp/~tachi/posmol2025/)
-- [8th Japan-Thai workshop on Theoretical and Computational Chemistry 2023 (International Workshop)](https://ycuqpc.github.io/JTTCC8th/)
-- [8th International Workshop on Quantum Chemistry, 2023 (International Workshop)](https://ycuqpc.github.io/IWQC8th/)
-- [The 25th Annual Meeting of Japan Society of Theoretical Chemistry (Conference)](https://jstc.org/theochem25/)
-- [Julia in Physics 2024 (Workshop)](https://ohno.github.io/julia_in_physics_2024/)
-- [The Society of Japanese Women Scientists (Society)](https://sjws.or.jp/)
-- [YCU Orchestra (Club)](http://orchestra.musicinfo.co.jp/~ycuorch/)
-- [GitHub:QR (QR code generator)](https://ohno.github.io/github-qr/)
-- [Fortran2Julia.js (Transpiler)](https://ohno.github.io/Fortran2Julia.js/)
-- [Sci2Dec.js (Formatter)](https://ohno.github.io/sci2dec.js/)
-- [Underleaf (Real Time LaTeX Editor)](https://ohno.github.io/underleaf/)
+- [POSMOL 2025](https://www-user.yokohama-cu.ac.jp/~tachi/posmol2025/) (International Workshop)
+- [8th Japan-Thai workshop on Theoretical and Computational Chemistry 2023](https://ycuqpc.github.io/JTTCC8th/) (International Workshop)
+- [8th International Workshop on Quantum Chemistry, 2023](https://ycuqpc.github.io/IWQC8th/) (International Workshop)
+- [The 25th Annual Meeting of Japan Society of Theoretical Chemistry](https://jstc.org/theochem25/) (Conference)
+- [Julia in Physics 2024](https://ohno.github.io/julia_in_physics_2024/) (Workshop)
+- [The Society of Japanese Women Scientists](https://sjws.or.jp/) (Society)
+- [YCU Orchestra](http://orchestra.musicinfo.co.jp/~ycuorch/) (Club)
+- [GitHub:QR](https://ohno.github.io/github-qr/) (QR code generator)
+- [Fortran2Julia.js](https://ohno.github.io/Fortran2Julia.js/) (Transpiler) ★
+- [Sci2Dec.js](https://ohno.github.io/sci2dec.js/) (Formatter)
+- [Underleaf](https://ohno.github.io/underleaf/) (Real Time LaTeX Editor) ★
+- [popup.js](https://ohno.github.io/popup.js/) (JavaScript package via CDN)
+- [ScaleBreaks.svg](https://github.com/ohno/ScaleBreaks.svg) (SVG library)
 
-### 🌱 My Examples
+### 🌟 Julia Packages
+
+- [Antique.jl](https://ohno.github.io/Antique.jl/stable/) ★
+- [TwoBody.jl](https://ohno.github.io/TwoBody.jl/dev/) ★
+- [MatrixPrintf.jl](https://github.com/ohno/MatrixPrintf.jl)
+- [RoughlyRational.jl](https://github.com/ohno/RoughlyRational.jl)
+- [FiniteDifferenceMatrices.jl](https://ohno.github.io/FiniteDifferenceMatrices.jl/stable/)
+
+### 🌱 My MWEs
 
 - [HTML](https://github.com/ohno/html-example)
 - [PHP](https://github.com/ohno/php-example)
-- [Jekyll](https://github.com/ohno/jekyll-example)
-- [Slidev](https://github.com/ohno/slidev-example)
-- [VitePress](https://github.com/ohno/vitepress-example)
+- [FTP deploy via GitHub Actions](https://github.com/ohno/deploy-example)
+- [Jekyll](https://github.com/ohno/jekyll-example) ★
+- [Slidev](https://github.com/ohno/slidev-example) ★
+- [VitePress](https://github.com/ohno/vitepress-example) ★
+
+### 🌱 My Examples
+
+- [LAPACK](https://github.com/ohno/ill-conditioned)
+- [FORTRAN](https://github.com/ohno/F77F90)
+- [Fortran](https://github.com/ohno/F77F90)
+- [Fortran via Julia](https://github.com/ohno/RunningExternalPrograms)
+- [Plots.jl](https://github.com/ohno/Plots-Makie)
+- [Makie.jl](https://github.com/ohno/Plots-Makie) ★
 
 ### 💡 CDN Examples
 
@@ -95,14 +115,6 @@ Until 2020, I was a website engineer at [Qumpoo inc.](https://qumpoo.com/). Now,
 - [Introduction to Gaussian16 (PowerPoint)](https://github.com/ohno/gaussian)
 - [Numerical Calculations for the Langevin Equation in Julia (Marp for VS Code)](https://github.com/ohno/butsudoi2021/)
 
-### 📦 My Packages
-
-- [Antique.jl](https://ohno.github.io/Antique.jl/stable/)
-- [TwoBody.jl](https://ohno.github.io/TwoBody.jl/dev/)
-- [FiniteDifferenceMatrices.jl](https://ohno.github.io/FiniteDifferenceMatrices.jl/stable/)
-- [popup.js](https://ohno.github.io/popup.js/)
-- [ScaleBreaks.svg](https://github.com/ohno/ScaleBreaks.svg)
-
 ### 📚 My Notebooks
 
 My lectures and tutorials are available [here](https://zenn.dev/ohno). [FORTRAN and Fortran](https://zenn.dev/ohno/articles/b104fe8f506439) is the most popular article.
@@ -122,8 +134,8 @@ My lectures and tutorials are available [here](https://zenn.dev/ohno). [FORTRAN 
 - [Hydrogen Atom](https://zenn.dev/ohno/articles/e1103bc0d58ceb)
 - [Rodrigues' formula](https://zenn.dev/ohno/articles/0aaace3224c4fa)
 - [Hartree-Fock method](https://zenn.dev/ohno/articles/043628cfb32f6d)
-- [Ill-conditioned Eigenvalue problems](https://zenn.dev/ohno/articles/fd1c669be6fa38) ([repo](https://github.com/ohno/ill-conditioned))
 - [FORTRAN and Fortran](https://zenn.dev/ohno/articles/b104fe8f506439) ([repo](https://github.com/ohno/F77F90))
+- [Ill-conditioned Eigenvalue problems](https://zenn.dev/ohno/articles/fd1c669be6fa38) ([repo](https://github.com/ohno/ill-conditioned))
 
 ### 🔰 Julia Tutorials
 
