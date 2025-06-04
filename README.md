@@ -65,7 +65,7 @@ Until 2020, I was a website engineer at [Qumpoo inc.](https://qumpoo.com/). Now,
 - [popup.js](https://ohno.github.io/popup.js/) (JavaScript package via CDN)
 - [ScaleBreaks.svg](https://github.com/ohno/ScaleBreaks.svg) (SVG library)
 
-### 🌟 Julia Packages
+### 🌟 My Julia Packages
 
 - [Antique.jl](https://ohno.github.io/Antique.jl/stable/) ★
 - [TwoBody.jl](https://ohno.github.io/TwoBody.jl/dev/) ★
