@@ -112,7 +112,7 @@ Until 2020, I was a website engineer at [Qumpoo inc.](https://qumpoo.com/). Now,
 
 ### 🧑‍🏫 My Slides
 
-- [Introduction to Gaussian16 (PowerPoint)](https://github.com/ohno/gaussian)
+- [Introduction to Gaussian16 (PowerPoint)](https://github.com/ohno/gaussian) ★
 - [Numerical Calculations for the Langevin Equation in Julia (Marp for VS Code)](https://github.com/ohno/butsudoi2021/)
 
 ### 📚 My Notebooks
@@ -134,8 +134,8 @@ My lectures and tutorials are available [here](https://zenn.dev/ohno). [FORTRAN 
 - [Hydrogen Atom](https://zenn.dev/ohno/articles/e1103bc0d58ceb)
 - [Rodrigues' formula](https://zenn.dev/ohno/articles/0aaace3224c4fa)
 - [Hartree-Fock method](https://zenn.dev/ohno/articles/043628cfb32f6d)
-- [FORTRAN and Fortran](https://zenn.dev/ohno/articles/b104fe8f506439) ([repo](https://github.com/ohno/F77F90))
-- [Ill-conditioned Eigenvalue problems](https://zenn.dev/ohno/articles/fd1c669be6fa38) ([repo](https://github.com/ohno/ill-conditioned))
+- [FORTRAN and Fortran](https://zenn.dev/ohno/articles/b104fe8f506439) ([repo](https://github.com/ohno/F77F90)) ★
+- [Ill-conditioned Eigenvalue problems](https://zenn.dev/ohno/articles/fd1c669be6fa38) ([repo](https://github.com/ohno/ill-conditioned)) ★
 
 ### 🔰 Julia Tutorials
 
@@ -173,12 +173,12 @@ My lectures and tutorials are available [here](https://zenn.dev/ohno). [Introduc
 - [Julia](https://zenn.dev/ohno/books/356315a0e6437c/viewer/c7687c)
 - [Jupyter Notebook](https://zenn.dev/ohno/books/356315a0e6437c/viewer/2d6928)
 - [WSL](https://zenn.dev/ohno/books/356315a0e6437c/viewer/3fefe4)
-- [C/C++/Fortran](https://zenn.dev/ohno/books/356315a0e6437c/viewer/2b78dd)
+- [C/C++/Fortran](https://zenn.dev/ohno/books/356315a0e6437c/viewer/2b78dd) ★
 - [LAPACK](https://zenn.dev/ohno/books/356315a0e6437c/viewer/5c057f)
-- [OpenMPI](https://zenn.dev/ohno/books/356315a0e6437c/viewer/5a9c0c)
+- [OpenMPI](https://zenn.dev/ohno/books/356315a0e6437c/viewer/5a9c0c) ★
 - [Winmostar](https://zenn.dev/ohno/books/356315a0e6437c/viewer/e700d2)
 - [MOPAC](https://zenn.dev/ohno/books/356315a0e6437c/viewer/165a25)
-- [Gaussian 16](https://zenn.dev/ohno/books/356315a0e6437c/viewer/52b763)
+- [Gaussian 16](https://zenn.dev/ohno/books/356315a0e6437c/viewer/52b763) ★
 - [Gauss View 6](https://zenn.dev/ohno/books/356315a0e6437c/viewer/51928f)
 - [GAMESS](https://zenn.dev/ohno/books/356315a0e6437c/viewer/072540)
 - [SMASH](https://zenn.dev/ohno/books/356315a0e6437c/viewer/47d024)
