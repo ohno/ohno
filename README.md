@@ -57,7 +57,7 @@ Until 2020, I was a website engineer at [Qumpoo inc.](https://qumpoo.com/). Now,
 - [The 25th Annual Meeting of Japan Society of Theoretical Chemistry](https://jstc.org/theochem25/) (Conference)
 - [Julia in Physics 2024](https://ohno.github.io/julia_in_physics_2024/) (Workshop)
 - [The Society of Japanese Women Scientists](https://sjws.or.jp/) (Society)
-- [YCU Orchestra](http://orchestra.musicinfo.co.jp/~ycuorch/) (Club)
+- [YCU Orchestra](http://orchestra.musicinfo.co.jp/~ycuorch/) (Club) ★
 - [GitHub:QR](https://ohno.github.io/github-qr/) (QR code generator) ★
 - [Fortran2Julia.js](https://ohno.github.io/Fortran2Julia.js/) (Transpiler)
 - [Sci2Dec.js](https://ohno.github.io/sci2dec.js/) (Formatter)
