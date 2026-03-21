@@ -95,20 +95,20 @@ Until 2020, I was a website engineer at [Qumpoo inc.](https://qumpoo.com/). Now,
 
 [Here](https://ohno.github.io/) are examples of JavaScript libraries via CDNs:
 
-- [c3.js](https://ohno.github.io/#c3.js)
-- [MathJax](https://ohno.github.io/#MathJax)
-- [Marked](https://ohno.github.io/#Marked)
-- [EasyMDE](https://ohno.github.io/#EasyMDE)
-- [popup.js](https://ohno.github.io/#popup.js)
-- [clipboard.js](https://ohno.github.io/#clipboard.js)
-- [download.js](https://ohno.github.io/#download.js)
-- [Material Icons](https://ohno.github.io/#Material%20Icons)
-- [MoreToggles.css](https://ohno.github.io/#MoreToggles.css)
-- [GitHub:buttons](https://ohno.github.io/#GitHub:buttons)
-- [Shields.io](https://ohno.github.io/#Shields.io)
-- [highlight.js](https://ohno.github.io/#highlight.js)
-- [escape-html](https://ohno.github.io/#escape-html)
-- [Three.js](https://ohno.github.io/#Three.js)
+- [c3.js](https://ohno.github.io/hello-cdn#c3.js)
+- [MathJax](https://ohno.github.io/hello-cdn#MathJax)
+- [Marked](https://ohno.github.io/hello-cdn#Marked)
+- [EasyMDE](https://ohno.github.io/hello-cdn#EasyMDE)
+- [popup.js](https://ohno.github.io/hello-cdn#popup.js)
+- [clipboard.js](https://ohno.github.io/hello-cdn#clipboard.js)
+- [download.js](https://ohno.github.io/hello-cdn#download.js)
+- [Material Icons](https://ohno.github.io/hello-cdn#Material%20Icons)
+- [MoreToggles.css](https://ohno.github.io/hello-cdn#MoreToggles.css)
+- [GitHub:buttons](https://ohno.github.io/hello-cdn#GitHub:buttons)
+- [Shields.io](https://ohno.github.io/hello-cdn#Shields.io)
+- [highlight.js](https://ohno.github.io/hello-cdn#highlight.js)
+- [escape-html](https://ohno.github.io/hello-cdn#escape-html)
+- [Three.js](https://ohno.github.io/hello-cdn#Three.js)
 
 ### 🧑‍🏫 My Slides
 
