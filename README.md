@@ -2,15 +2,6 @@ Pelase see my website:
 
 [<img width="1779" height="1008" alt="image" src="https://github.com/user-attachments/assets/55f8c65d-e612-4202-b912-4c6a880ed065" />](https://ohno.github.io/)
 
-### ☕ Hello!
-
-Greetings everyone. My name is Shuhei Ohno. I am a PhD student, a junior researcher and a websites engineer. Please see [resarchmap](https://researchmap.jp/sohno?lang=en) for more information about my research:
-
-<a href='https://researchmap.jp/sohno?lang=en' target='_blank'><img title='researchmap' alt='researchmap' src='https://researchmap.jp/outline/img/researchmap220.gif' /></a>
-
-<!-- ![ohno's github stats](https://github-readme-stats.vercel.app/api?username=ohno&show_icons=true&theme=react&show_icons=true)  -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohno&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-
 ### 🧰 My Toolbox
 <p>
   <img alt="Windows" src="https://img.shields.io/badge/Windows-00599C?style=flat&logo=windows&logoColor=white"/>
@@ -50,32 +41,6 @@ Greetings everyone. My name is Shuhei Ohno. I am a PhD student, a junior researc
   <img alt="WordPress" src="https://img.shields.io/badge/WordPress-117AC9.svg?style=flat&logo=WordPress&logoColor=white"/>
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?style=flat&logo=php&logoColor=white"/>
 </p>
-
-### 🎨 My Products
-
-Until 2020, I was a website engineer at [Qumpoo inc.](https://qumpoo.com/). Now, I develop websites as a freelancer to cover the tuition fees, and also as a student / a researcher to support academic workshops and conferences. I have executed more than 30 projects. Examples of my nonsecret products are here:
-
-- [POSMOL 2025](https://www-user.yokohama-cu.ac.jp/~tachi/posmol2025/) (International Workshop)
-- [8th Japan-Thai workshop on Theoretical and Computational Chemistry 2023](https://ycuqpc.github.io/JTTCC8th/) (International Workshop)
-- [8th International Workshop on Quantum Chemistry, 2023](https://ycuqpc.github.io/IWQC8th/) (International Workshop)
-- [The 25th Annual Meeting of Japan Society of Theoretical Chemistry](https://jstc.org/theochem25/) (Conference)
-- [Julia in Physics 2024](https://ohno.github.io/julia_in_physics_2024/) (Workshop)
-- [The Society of Japanese Women Scientists](https://sjws.or.jp/) (Society)
-- [YCU Orchestra](http://orchestra.musicinfo.co.jp/~ycuorch/) (Club) ★
-- [GitHub:QR](https://ohno.github.io/github-qr/) (QR code generator) ★
-- [Fortran2Julia.js](https://ohno.github.io/Fortran2Julia.js/) (Transpiler)
-- [Sci2Dec.js](https://ohno.github.io/sci2dec.js/) (Formatter)
-- [Underleaf](https://ohno.github.io/underleaf/) (Real Time LaTeX Editor) ★
-- [popup.js](https://ohno.github.io/popup.js/) (JavaScript package via CDN)
-- [ScaleBreaks.svg](https://github.com/ohno/ScaleBreaks.svg) (SVG library)
-
-### 🌟 My Julia Packages
-
-- [Antique.jl](https://ohno.github.io/Antique.jl/stable/) ★
-- [TwoBody.jl](https://ohno.github.io/TwoBody.jl/dev/) ★
-- [MatrixPrintf.jl](https://github.com/ohno/MatrixPrintf.jl)
-- [RoughlyRational.jl](https://github.com/ohno/RoughlyRational.jl)
-- [FiniteDifferenceMatrices.jl](https://ohno.github.io/FiniteDifferenceMatrices.jl/stable/)
 
 ### 🌱 My MWEs
 
